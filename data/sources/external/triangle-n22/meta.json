@@ -1,5 +1,5 @@
 {
- "ref": "spiralulam heilbronn_square/csearch pipeline, D3 symmetric-start pass 2026-08-24",
- "credit": "Nathan Sudermann-Merx, August 2026",
- "note": "found by descending from a threefold-symmetric configuration in the equilateral frame, then symmetry-breaking trust-region SLP refinement"
+ "ref": "Nathan Sudermann-Merx search campaign, October 2026: C basin hopping with soft-min L-BFGS, symmetric orbit parametrisation, ruin-and-recreate moves, vertical seeding from n-1/n+1 records, HiGHS trust-region SLP polish",
+ "credit": "Nathan Sudermann-Merx, October 2026",
+ "note": "Found by vertical seeding / basin hopping; coordinates are the SLP-polished double-precision optimum, truncated toward zero."
 }
