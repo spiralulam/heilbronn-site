@@ -1,5 +1,5 @@
 {
- "ref": "Derived from the convex n=36 record (Nathan Sudermann-Merx, October 2026): one point removed, then re-polished with this site's trust-region SLP (search/refine.py); 5 minutes of basin hopping found nothing better",
- "credit": "Tej Stead, October 2026",
- "note": "Point removal plus local polish; coordinates are the double-precision optimum."
+ "ref": "Nathan Sudermann-Merx search campaign, October 2026: C basin hopping with soft-min L-BFGS, symmetric orbit parametrisation, ruin-and-recreate moves, vertical seeding from n-1/n+1 records, HiGHS trust-region SLP polish",
+ "credit": "Nathan Sudermann-Merx, October 2026",
+ "note": "Found by vertical seeding / basin hopping; coordinates are the SLP-polished double-precision optimum, truncated toward zero."
 }
