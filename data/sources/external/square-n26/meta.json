@@ -1,5 +1,5 @@
 {
- "ref": "autoheilbronn v7 campaign; two independent exact rational verifiers",
- "credit": "Rhys Chappell, October 2026",
- "note": "Basin exploration followed by full-configuration optimization and exact rational verification."
+ "ref": "Nathan Sudermann-Merx search campaign, October 2026: stress-weighted ruin-and-recreate (scheme adapted from cnemri/heilbronn-alphaevolve; C1 and symmetric orbits), soft-min basin hopping, vertical seeding, trust-region SLP polish",
+ "credit": "Nathan Sudermann-Merx, October 2026",
+ "note": "Found by ruin-and-recreate / basin-hopping search; coordinates are the SLP-polished double-precision optimum, truncated toward zero."
 }
