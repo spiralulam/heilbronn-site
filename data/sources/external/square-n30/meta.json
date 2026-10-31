@@ -1,5 +1,5 @@
 {
- "ref": "heilbronn-site search/refine.py \u2014 square n=31 record minus one point, re-polished",
- "credit": "Tej Stead, September 2026",
- "note": "The n=31 configuration (Coupvent des Graviers' n=32 minus one point) with one more point deleted and re-polished; the ladder stops here, as one further deletion falls 2.6% short of the n=29 record."
+ "ref": "Nathan Sudermann-Merx search campaign, October 2026: stress-weighted ruin-and-recreate (scheme adapted from cnemri/heilbronn-alphaevolve; C1 and symmetric orbits), soft-min basin hopping, vertical seeding, trust-region SLP polish",
+ "credit": "Nathan Sudermann-Merx, October 2026",
+ "note": "Found by ruin-and-recreate / basin-hopping search; coordinates are the SLP-polished double-precision optimum, truncated toward zero."
 }
