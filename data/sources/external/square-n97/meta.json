@@ -1,5 +1,5 @@
 {
- "ref": "Derived from Ethan Hendren's square n = 98 configuration (github.com/NERD-NEH007/heilbronn-discovery-lab, PR #82) by deleting one point",
- "credit": "Ethan Hendren, November 2026",
- "note": "The n = 98 configuration with one point removed. That point lies on none of the minimal triangles, so the value equals the n = 98 value exactly; it is a placeholder bound, not an optimized 97-point configuration."
+ "ref": "Nathan Sudermann-Merx search campaign, November 2026: stress-weighted ruin-and-recreate (scheme adapted from cnemri/heilbronn-alphaevolve; C1 and symmetric orbits), soft-min basin hopping, vertical seeding, trust-region SLP polish",
+ "credit": "Nathan Sudermann-Merx, November 2026",
+ "note": "Found by ruin-and-recreate / basin-hopping search; coordinates are the SLP-polished double-precision optimum, truncated toward zero."
 }
